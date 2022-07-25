@@ -6,9 +6,9 @@ public class NewExample {
 		//this is my 1st program
 		System.out.println("hi");
 		System.out.println("hi hlo");
-		System.out.println("hi how r u");
+	
 		
-		System.out.println("hi how r u");
+	
 		
 		
 		

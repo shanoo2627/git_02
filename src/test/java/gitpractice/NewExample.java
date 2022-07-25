@@ -7,8 +7,9 @@ public class NewExample {
 		System.out.println("hi");
 		System.out.println("hi hlo");
 		System.out.println("hi how r u");
-		
+		////this is my 2nd program
 		System.out.println("hi how r u");
+		//this is my 3rd program
 		
 		
 		

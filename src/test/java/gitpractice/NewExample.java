@@ -9,7 +9,7 @@ public class NewExample {
 		System.out.println("hi how r u");
 		
 		System.out.println("hi how r u");
-		System.out.println("hi ");
+		
 		
 		
 
